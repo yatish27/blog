@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>yatish.io</title>
-    <link>https://yatish27.github.io/</link>
+    <link>https://yatish27.github.io/blog/</link>
     <description>Recent content on yatish.io</description>
     <image>
-      <url>https://yatish27.github.io/papermod-cover.png</url>
-      <link>https://yatish27.github.io/papermod-cover.png</link>
+      <url>https://yatish27.github.io/blog/papermod-cover.png</url>
+      <link>https://yatish27.github.io/blog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yatish27.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yatish27.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation | Update</title>
-      <link>https://yatish27.github.io/posts/installation-update/</link>
+      <link>https://yatish27.github.io/blog/posts/installation-update/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yatish27.github.io/posts/installation-update/</guid>
+      <guid>https://yatish27.github.io/blog/posts/installation-update/</guid>
       <description>Read Install and Update instructions here</description>
     </item>
     
